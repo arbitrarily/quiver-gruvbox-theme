@@ -1,0 +1,257 @@
+{
+  "mainWindow": {
+    "divider": {
+      "topColor": "#282828",
+      "middleColor": "#282828",
+      "bottomColor": "#282828"
+    }
+  },
+  "sidebar": {
+    "topBar": {
+      "backgroundColor": "#282828",
+      "bottomBorderColor": "#282828",
+      "segmentedControl": {
+        "tintColor": "#e7dcd3",
+        "borderWidth": 2.5,
+        "borderRadius": 3
+      }
+    },
+    "table": {
+      "textColor": "#e7dcd3",
+      "iconColor": "#bdae93",
+      "backgroundColor": "#282828",
+
+      "selectedTextColor": "#e7dcd3",
+      "selectedIconColor": "#bdae93",
+      "selectedRowBgColor": "#282828",
+
+      "emphasizedTextColor": "#e7dcd3",
+      "emphasizedIconColor": "#bdae93",
+      "emphasizedRowBgColor": "#504945"
+    },
+    "bottomBar": {
+      "backgroundColor": "#282828",
+      "topBorderColor": "#282828",
+      "textColor": "#e7dcd3",
+      "controlColor": "#bdae93",
+      "pressedControlColor": "#fbf1c7"
+    }
+  },
+  "noteList": {
+    "topBar": {
+      "backgroundColor": "#282828",
+      "bottomBorderColor": "#282828",
+      "controlColor": "#bdae93",
+      "pressedControlColor": "#fbf1c7"
+    },
+    "tableHeader": {
+      "backgroundColor": "#282828",
+      "bottomBorderColor": "#282828",
+      "controlColor": "#bdae93",
+      "pressedControlColor": "#fbf1c7"
+    },
+    "table": {
+      "separatorColor": "#282828",
+      "backgroundColor": "#282828",
+
+      "textColor": "#e7dcd3",
+      "iconColor": "#bdae93",
+      "rowBgColor": "#282828",
+      "detailColor": "#a89984",
+
+      "selectedTextColor": "#e7dcd3",
+      "selectedIconColor": "#bdae93",
+      "selectedRowBgColor": "#282828",
+      "selectedDetailColor": "#a89984",
+
+      "emphasizedTextColor": "#e7dcd3",
+      "emphasizedIconColor": "#bdae93",
+      "emphasizedRowBgColor": "#504945",
+      "emphasizedDetailColor": "#bdae93",
+
+      "draggedRowBgColor": "#928374",
+      "altRowBgColor": "#282828",
+      "emptyTextColor": "#e7dcd3"
+    },
+    "bottomBar": {
+      "backgroundColor": "#282828",
+      "searchField": {
+        "textColor": "#e7dcd3",
+        "controlColor": "#bdae93",
+        "pressedControlColor": "#fbf1c7",
+        "backgroundColor": "#282828",
+        "borderColor": "#504945",
+        "placeholderColor": "#a89984"
+      }
+    }
+  },
+  "noteView": {
+    "backgroundColor": "#282828",
+    "dividerColor": "#282828",
+    "topBar": {
+      "backgroundColor": "#282828",
+      "bottomBorderColor": "#282828",
+      "controlColor": "#bdae93",
+      "pressedControlColor": "#fbf1c7",
+      "segmentedControl": {
+        "tintColor": "#e7dcd3",
+        "borderWidth": 2.5,
+        "borderRadius": 3
+      }
+    },
+    "toolbar": {
+      "backgroundColor": "#282828",
+      "dividerColor": "#282828",
+      "middleDividerColor": "#282828",
+      "controlColor": "#bdae93",
+      "pressedControlColor": "#fbf1c7",
+      "iconColor": "#bdae93",
+      "textColor": "#e7dcd3",
+      "popUpButton": {
+        "titleColor": "#e7dcd3",
+        "borderColor": "#282828"
+      },
+      "tagField": {
+        "textColor": "#e7dcd3",
+        "placeholderColor": "#a89984",
+        "tag": {
+          "textColor": "#a89984",
+          "selectedTextColor": "#e7dcd3",
+          "backgroundColor": "#282828",
+          "selectedBackgroundColor": "#282828",
+          "borderRadius": 4
+        }
+      },
+      "formatBar": {
+        "controlColor": "#bdae93",
+        "highlightColor": "#fbf1c7"
+      },
+      "searchField": {
+        "textColor": "#e7dcd3",
+        "controlColor": "#bdae93",
+        "pressedControlColor": "#fbf1c7",
+        "backgroundColor": "#282828",
+        "borderColor": "#282828",
+        "placeholderColor": "#a89984"
+      },
+      "doneButton": {
+        "textColor": "#e7dcd3",
+        "highlightBackgroundColor": "#282828",
+        "borderColor": "#282828"
+      }
+    },
+    "bottomBar": {
+      "backgroundColor": "#282828",
+      "controlColor": "#bdae93",
+      "pressedControlColor": "#fbf1c7"
+    }
+  },
+  "multiNote": {
+    "backgroundColor": "#282828",
+    "textColor": "#e7dcd3",
+    "button": {
+      "tintColor": "#fbf1c7",
+      "backgroundColor": "#282828",
+      "borderColor": "#282828",
+
+      "highlightColor": "#fbf1c7",
+      "highlightBackgroundColor": "#504945",
+      "highlightBorderColor": "#282828"
+    },
+    "tagField": {
+      "textColor": "#e7dcd3",
+      "placeholderColor": "#a89984",
+      "backgroundColor": "#282828",
+      "borderColor": "#282828",
+      "borderRadius": 4,
+      "tag": {
+        "textColor": "#e7dcd3",
+        "selectedTextColor": "#e7dcd3",
+        "backgroundColor": "#282828",
+        "selectedBackgroundColor": "#282828",
+        "borderRadius": 4
+      }
+    }
+  },
+  "notebookPicker": {
+    "backgroundColor": "#282828",
+    "textColor": "#e7dcd3",
+    "dividerColor": "#282828",
+    "searchField": {
+      "textColor": "#e7dcd3",
+      "controlColor": "#bdae93",
+      "pressedControlColor": "#fbf1c7",
+      "backgroundColor": "#282828",
+      "borderColor": "#282828",
+      "placeholderColor": "#a89984"
+    },
+    "table": {
+      "textColor": "#e7dcd3",
+      "iconColor": "#e7dcd3",
+
+      "selectedTextColor": "#e7dcd3",
+      "selectedIconColor": "#bdae93",
+      "selectedRowBgColor": "#282828",
+
+      "emphasizedTextColor": "#e7dcd3",
+      "emphasizedIconColor": "#bdae93",
+      "emphasizedRowBgColor": "#504945",
+
+      "emptyTextColor": "#e7dcd3"
+    }
+  },
+  "searchView": {
+    "backgroundColor": "#282828",
+    "searchField": {
+      "textColor": "#e7dcd3",
+      "controlColor": "#bdae93",
+      "pressedControlColor": "#fbf1c7",
+      "backgroundColor": "#282828",
+      "borderColor": "#282828",
+      "placeholderColor": "#a89984"
+    },
+    "tableHeader": {
+      "backgroundColor": "#282828",
+      "topBorderColor": "#282828",
+      "bottomBorderColor": "#282828",
+      "textColor": "#e7dcd3",
+      "controlColor": "#bdae93",
+      "pressedControlColor": "#fbf1c7"
+    },
+    "table": {
+      "separatorColor": "#282828",
+
+      "textColor": "#e7dcd3",
+      "iconColor": "#bdae93",
+      "rowBgColor": "#282828",
+      "detailColor": "#e7dcd3",
+
+      "selectedTextColor": "#e7dcd3",
+      "selectedIconColor": "#bdae93",
+      "selectedRowBgColor": "#282828",
+      "selectedDetailColor": "#e7dcd3",
+
+      "emphasizedTextColor": "#e7dcd3",
+      "emphasizedIconColor": "#bdae93",
+      "emphasizedRowBgColor": "#504945",
+      "emphasizedDetailColor": "#e7dcd3",
+
+      "altRowBgColor": "#282828",
+      "emptyTextColor": "#e7dcd3"
+    }
+  },
+  "presentation": {
+    "backgroundColor": "#282828"
+  },
+  "editor": {
+    "codeCellTheme": "tomorrow_night_eighties",
+    "markdownCellTheme": "tomorrow_night_eighties"
+  },
+  "css": {
+    "className": "dark",
+    "editor": ".dark{color:#e7dcd3}.dark a{color:#458588}.dark table tr:nth-child(even){background-color:rgba(255,255,255,0)}.dark blockquote{color:#e7dcd3}.dark hr{background-color:#e7dcd3}.dark code{background-color:rgba(255,255,255,0)}.dark svg{background-color:rgba(255,255,255,0)}.dark .text-cell [style]{color:#e7dcd3!important;background-color:transparent!important}.dark .diagram-cell .ace_editor,.dark .latex-cell .ace_editor,.dark .markdown-cell .ace_editor{color:#e7dcd3;background-color:rgba(255,255,255,0)}.dark .markdown-cell .ace_list{color:#e7dcd3} .cell.inEditMode{border-color:#bdae93;}",
+    "preview": ".dark{color:#e7dcd3}.dark a{color:#458588}.dark table tr:nth-child(even){background-color:rgba(255,255,255,0)}.dark blockquote{color:#e7dcd3}.dark hr{background-color:#e7dcd3}.dark code{background-color:rgba(255,255,255,0)}.dark svg{background-color:rgba(255,255,255,0)}.dark .text-cell [style]{color:#e7dcd3!important;background-color:transparent!important} #tag-field .tag{background:rgba(255,255,255,0);color:#e7dcd3}.dark rect{fill:#e7dcd3;stroke:#e7dcd3}.dark rect+text{fill:#282828}.dark path{stroke:#e7dcd3}.dark text{fill:#e7dcd3}",
+    "presentation": ".dark{color:#e7dcd3}.dark a{color:#458588}.dark table tr:nth-child(even){background-color:rgba(255,255,255,0)}.dark blockquote{color:#e7dcd3}.dark hr{background-color:#e7dcd3}.dark code{background-color:rgba(255,255,255,0)}.dark svg{background-color:rgba(255,255,255,0)}.dark .text-cell [style]{color:#e7dcd3!important;background-color:transparent!important}.dark rect{fill:#e7dcd3;stroke:#e7dcd3}.dark rect+text{fill:#282828}.dark path{stroke:#e7dcd3}.dark text{fill:#e7dcd3}"
+  }
+}
+
