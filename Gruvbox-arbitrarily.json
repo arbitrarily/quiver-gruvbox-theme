@@ -12,8 +12,8 @@
       "bottomBorderColor": "#282828",
       "segmentedControl": {
         "tintColor": "#e7dcd3",
-        "borderWidth": 2.5,
-        "borderRadius": 3
+        "borderWidth": 0,
+        "borderRadius": 0
       }
     },
     "table": {
@@ -80,7 +80,7 @@
         "controlColor": "#bdae93",
         "pressedControlColor": "#fbf1c7",
         "backgroundColor": "#282828",
-        "borderColor": "#504945",
+        "borderColor": "#282828",
         "placeholderColor": "#a89984"
       }
     }
@@ -95,8 +95,8 @@
       "pressedControlColor": "#fbf1c7",
       "segmentedControl": {
         "tintColor": "#e7dcd3",
-        "borderWidth": 2.5,
-        "borderRadius": 3
+        "borderWidth": 0,
+        "borderRadius": 0
       }
     },
     "toolbar": {
@@ -119,7 +119,7 @@
           "selectedTextColor": "#e7dcd3",
           "backgroundColor": "#282828",
           "selectedBackgroundColor": "#282828",
-          "borderRadius": 4
+          "borderRadius": 0
         }
       },
       "formatBar": {
@@ -153,7 +153,6 @@
       "tintColor": "#fbf1c7",
       "backgroundColor": "#282828",
       "borderColor": "#282828",
-
       "highlightColor": "#fbf1c7",
       "highlightBackgroundColor": "#504945",
       "highlightBorderColor": "#282828"
@@ -249,7 +248,7 @@
   },
   "css": {
     "className": "dark",
-    "editor": ".dark{color:#e7dcd3}.dark a{color:#458588}.dark table tr:nth-child(even){background-color:rgba(255,255,255,0)}.dark blockquote{color:#e7dcd3}.dark hr{background-color:#e7dcd3}.dark code{background-color:rgba(255,255,255,0)}.dark svg{background-color:rgba(255,255,255,0)}.dark .text-cell [style]{color:#e7dcd3!important;background-color:transparent!important}.dark .diagram-cell .ace_editor,.dark .latex-cell .ace_editor,.dark .markdown-cell .ace_editor{color:#e7dcd3;background-color:rgba(255,255,255,0)}.dark .markdown-cell .ace_list{color:#e7dcd3} .cell.inEditMode{border-color:#bdae93;}",
+    "editor": "#titlearea{border:none;font-weight:bold;padding:0;}.dark{color:#e7dcd3}.dark a{color:#458588}.dark table tr:nth-child(even){background-color:rgba(255,255,255,0)}.dark blockquote{color:#e7dcd3}.dark hr{background-color:#e7dcd3}.dark code{background-color:rgba(255,255,255,0)}.dark svg{background-color:rgba(255,255,255,0)}.dark .text-cell [style]{color:#e7dcd3!important;background-color:transparent!important}.dark .diagram-cell .ace_editor,.dark .latex-cell .ace_editor,.dark .markdown-cell .ace_editor{color:#e7dcd3;background-color:rgba(255,255,255,0)}.dark .markdown-cell .ace_list{color:#e7dcd3} .cell.inEditMode{border-color:transparent;}",
     "preview": ".dark{color:#e7dcd3}.dark a{color:#458588}.dark table tr:nth-child(even){background-color:rgba(255,255,255,0)}.dark blockquote{color:#e7dcd3}.dark hr{background-color:#e7dcd3}.dark code{background-color:rgba(255,255,255,0)}.dark svg{background-color:rgba(255,255,255,0)}.dark .text-cell [style]{color:#e7dcd3!important;background-color:transparent!important} #tag-field .tag{background:rgba(255,255,255,0);color:#e7dcd3}.dark rect{fill:#e7dcd3;stroke:#e7dcd3}.dark rect+text{fill:#282828}.dark path{stroke:#e7dcd3}.dark text{fill:#e7dcd3}",
     "presentation": ".dark{color:#e7dcd3}.dark a{color:#458588}.dark table tr:nth-child(even){background-color:rgba(255,255,255,0)}.dark blockquote{color:#e7dcd3}.dark hr{background-color:#e7dcd3}.dark code{background-color:rgba(255,255,255,0)}.dark svg{background-color:rgba(255,255,255,0)}.dark .text-cell [style]{color:#e7dcd3!important;background-color:transparent!important}.dark rect{fill:#e7dcd3;stroke:#e7dcd3}.dark rect+text{fill:#282828}.dark path{stroke:#e7dcd3}.dark text{fill:#e7dcd3}"
   }
